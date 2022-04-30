@@ -365,7 +365,7 @@ int main()
 		cin >> x;
 		if (x == 3) {
 			system("cls");
-			cout << "\n---Made by Reza Chabok Shahroudi---";
+			cout << "\n---Made by #bad_sector ---";
 			break;
 		}
 		if (x < 1 or x>2) {
